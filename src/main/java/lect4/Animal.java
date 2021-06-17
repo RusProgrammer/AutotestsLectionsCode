@@ -1,4 +1,4 @@
-package clases;
+package lect4;
 
 public class Animal extends Creature{
     public Integer Age;

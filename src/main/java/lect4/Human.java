@@ -1,9 +1,9 @@
-package clases;
+package lect4;
 
 public class Human extends Creature{
     public Human(String name)
     {
-        //
+        //base(name, 0, 0);
         Name = name;
     }
 }

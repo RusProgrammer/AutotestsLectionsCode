@@ -1,4 +1,4 @@
-package clases;
+package lect4;
 
 public class Creature {
     public String Name;

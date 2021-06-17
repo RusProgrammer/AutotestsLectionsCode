@@ -1,4 +1,4 @@
-package lect4;
+package lect4.task1;
 
 public class Human extends Creature{
     public Human(String name)

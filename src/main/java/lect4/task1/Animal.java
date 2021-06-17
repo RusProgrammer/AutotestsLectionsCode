@@ -1,6 +1,6 @@
-package lect4;
+package lect4.task1;
 
-public class Animal extends Creature{
+public class Animal extends Creature {
     public Integer Age;
 
     public Animal(String name, Integer age)
